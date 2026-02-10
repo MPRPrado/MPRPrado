@@ -5,8 +5,8 @@
 <div align="center">
   
   ### 🎓 Software Engineering Student (INATEL)
-  ### 💻 Back-End Developer | Python & Django
-  ### 🔌 Embedded Systems & IoT Enthusiast
+  ### 💻 Full-Stack Developer | Python & Django
+  ### 🚀 Passionate about IoT and Hardware-Software Integration
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mprprado/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MPRPrado)
@@ -22,9 +22,9 @@
 class MatheusPrado:
     def __init__(self):
         self.name = "Matheus Prado"
-        self.role = "Back-End Developer"
+        self.role = "Full-Stack Developer"
         self.education = "Software Engineering @ INATEL"
-        self.interests = ["IoT", "Embedded Systems", "APIs", "Hardware Integration"]
+        self.interests = ["IoT", "Web Development", "APIs", "Hardware Integration"]
     
     def say_hi(self):
         print("Bridging software and hardware, one line of code at a time!")
