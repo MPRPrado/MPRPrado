@@ -1,85 +1,142 @@
-# 👋 Olá, eu sou o Matheus Prado
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=200&section=header&text=Matheus%20Prado&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header"/>
+</div>
 
-🎓 Estudante de **Engenharia de Software (INATEL)**  
-🔧 Técnico em Eletrônica – Ênfase em Desenvolvimento de Sistemas  
-💻 Desenvolvedor Back-End com foco em **Python e Django**  
-📡 Entusiasta de Sistemas Embarcados e IoT
+<div align="center">
+  
+  ### 🎓 Estudante de Engenharia de Software (INATEL)
+  ### 💻 Desenvolvedor Back-End | Python & Django
+  ### 🔌 Entusiasta de Sistemas Embarcados & IoT
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mprprado/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MPRPrado)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusprado09ribeiro@gmail.com)
+  
+</div>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-Sou desenvolvedor com base sólida em eletrônica e programação, apaixonado por criar soluções que conectam software e hardware.
+```python
+class MatheusPrado:
+    def __init__(self):
+        self.name = "Matheus Prado"
+        self.role = "Back-End Developer"
+        self.education = "Software Engineering @ INATEL"
+        self.interests = ["IoT", "Embedded Systems", "APIs", "Hardware Integration"]
+    
+    def say_hi(self):
+        print("Conectando software e hardware, uma linha de código por vez!")
+```
 
-Tenho experiência com desenvolvimento back-end utilizando **Python (Django)**, integração com APIs e bancos de dados, além de projetos com **ESP32, RFID e sistemas embarcados em C**.
-
-Gosto de entender profundamente como as coisas funcionam — desde a camada física até a aplicação final.
+Sou desenvolvedor com base sólida em **eletrônica e programação**, apaixonado por criar soluções que conectam software e hardware. Tenho experiência com desenvolvimento back-end utilizando **Python (Django)**, integração com APIs e bancos de dados, além de projetos com **ESP32, RFID e sistemas embarcados em C**.
 
 ---
 
-## 🧠 Tecnologias & Habilidades
+## 🛠️ Tech Stack
 
-### 💻 Back-end
-- Python (Django)
-- APIs REST
-- Integração com banco de dados
-- Estruturação de sistemas escaláveis
+### 💻 Linguagens
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  
+</div>
+
+### 🎯 Frameworks & Ferramentas
+<div align="center">
+  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+</div>
 
 ### 🔌 Sistemas Embarcados
-- C para microcontroladores
-- STM32
-- ESP32
-- Comunicação via sensores
-- RFID
-- Processamento de dados embarcado
-
-### 🛠 Outras linguagens
-- C++
-- C#
-- Java
-
-### 🌍 Idiomas
-- Inglês – Avançado
+<div align="center">
+  
+  ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![RFID](https://img.shields.io/badge/RFID-FF6B6B?style=for-the-badge&logo=nfc&logoColor=white)
+  
+</div>
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🌎 AERIS (2025)
-Sistema de monitoramento de emissão de gases poluentes em áreas industriais.
-
-- Sensores enviando dados em tempo real
-- API para integração com plataforma online
-- Geração de relatórios periódicos
-- Backend desenvolvido com **Django**
-
-**Foco:** IoT + Back-End + Análise de Dados
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🌎 AERIS (2025)</h3>
+        <br>
+        <p align="center">
+          <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=iot&logoColor=white" />
+          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        </p>
+        <p align="center">
+          Sistema de monitoramento de emissão de gases poluentes em áreas industriais.
+        </p>
+        <p align="center">
+          ✅ Sensores em tempo real<br>
+          ✅ API REST integrada<br>
+          ✅ Relatórios automáticos<br>
+          ✅ Dashboard online
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🚌 SPO (2024)</h3>
+        <br>
+        <p align="center">
+          <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+          <img src="https://img.shields.io/badge/RFID-FF6B6B?style=for-the-badge&logo=nfc&logoColor=white" />
+          <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+        </p>
+        <p align="center">
+          Sistema eletrônico para substituição de passes de ônibus em papel.
+        </p>
+        <p align="center">
+          ✅ Validação RFID offline<br>
+          ✅ Recarga via app<br>
+          ✅ Hardware customizado<br>
+          ✅ Baixo consumo energético
+        </p>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
 ---
 
-### 🚌 SPO (2024)
-Sistema eletrônico para substituição de passes de ônibus em papel.
+## 📊 GitHub Stats
 
-- Utilização de **RFID**
-- Validação offline
-- Recarga via aplicativo
-- Implementação com **ESP32**
-
-**Foco:** Sistemas embarcados + Mobilidade urbana
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MPRPrado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPRPrado&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
 ## 🎯 Atualmente
 
-- Estudando Engenharia de Software no INATEL
-- Aprofundando conhecimentos em arquitetura de software
-- Evoluindo em desenvolvimento back-end e integração com hardware
-- Buscando oportunidades de estágio na área de tecnologia
+- 📚 Estudando **Arquitetura de Software** no INATEL
+- 🔨 Desenvolvendo projetos **IoT + Back-End**
+- 🌱 Aprendendo sobre **Cloud Computing** e **Microserviços**
+- 💼 Buscando oportunidades de **estágio em tecnologia**
+- 🌍 Inglês avançado
 
 ---
 
-## 📫 Contato
-
-📧 [matheusprado09ribeiro@gmail.com](mailto:matheusprado09ribeiro@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mprprado/)  
-💻 [GitHub](https://github.com/MPRPrado)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=120&section=footer" alt="footer"/>
+</div>
