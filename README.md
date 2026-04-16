@@ -5,7 +5,7 @@
 <div align="center">
   
   ### 🎓 Estudante de Engenharia de Software (INATEL)
-  ### 💻 Desenvolvedor Full-Stack | Python & Django
+  ### 💻 Desenvolvedor Full-Stack
   ### 🚀 Apaixonado por IoT e Integração Hardware-Software
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mprprado/)
@@ -23,14 +23,15 @@ class MatheusPrado:
     def __init__(self):
         self.name = "Matheus Prado"
         self.role = "Full-Stack Developer"
-        self.education = "Software Engineering @ INATEL"
+        self.education = ["Engenharia de Software @ INATEL", "Técnico em Eletrônica @ ETE FMC"]
+        self.internship = "CEDEN - Centro de Desenvolvimento e Negócios"
         self.interests = ["IoT", "Web Development", "APIs", "Hardware Integration"]
     
     def say_hi(self):
         print("Conectando software e hardware, uma linha de código por vez!")
 ```
 
-Sou desenvolvedor com base sólida em **eletrônica e programação**, apaixonado por criar soluções que conectam software e hardware. Tenho experiência com desenvolvimento back-end utilizando **Python (Django)**, integração com APIs e bancos de dados, além de projetos com **ESP32, RFID e sistemas embarcados em C**.
+Sou desenvolvedor com base sólida em **eletrônica e programação**, apaixonado por criar soluções que conectam software e hardware. Sou **Técnico em Eletrônica com ênfase em Desenvolvimento de Sistemas pela ETE FMC** e atualmente estagio na **CEDEN (Centro de Desenvolvimento e Negócios)**. Tenho experiência com desenvolvimento back-end, integração com APIs e bancos de dados, além de projetos com **ESP32, RFID e sistemas embarcados em C**.
 
 ---
 
@@ -40,10 +41,12 @@ Sou desenvolvedor com base sólida em **eletrônica e programação**, apaixonad
 <div align="center">
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
   
 </div>
 
@@ -51,9 +54,10 @@ Sou desenvolvedor com base sólida em **eletrônica e programação**, apaixonad
 <div align="center">
   
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
 </div>
 
@@ -134,9 +138,9 @@ Sou desenvolvedor com base sólida em **eletrônica e programação**, apaixonad
 ## 🎯 Atualmente
 
 - 📚 Estudando **Arquitetura de Software** no INATEL
+- 💼 Estagiando no **CEDEN - Centro de Desenvolvimento e Negócios**
 - 🔨 Desenvolvendo projetos **IoT + Back-End**
-- 🌱 Aprendendo sobre **Cloud Computing** e **Microserviços**
-- 💼 Buscando oportunidades de **estágio em tecnologia**
+- 🌱 Aprofundando conhecimentos em **FastAPI**, **Go** e **Rust**
 - 🌍 Inglês avançado
 
 ---
