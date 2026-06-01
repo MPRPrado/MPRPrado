@@ -127,12 +127,12 @@ Sou desenvolvedor com base sólida em **eletrônica e programação**, apaixonad
 <div align="center">
   <img 
     height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=MPRPrado&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MPRPrado&show_icons=true&theme=tokyonight&hide_border=true" 
   />
-  
+
   <img 
     height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPRPrado&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MPRPrado&layout=compact&theme=tokyonight&hide_border=true" 
   />
 </div>
 
