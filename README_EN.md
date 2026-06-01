@@ -125,12 +125,26 @@ I'm a developer with a solid foundation in **electronics and programming**, pass
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MPRPrado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPRPrado&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
+
+<img 
+  height="190em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=MPRPrado&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+/>
+
+<img 
+  height="190em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MPRPrado&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MPRPrado&theme=tokyonight" alt="GitHub Streak"/>
+
+<img 
+  width="95%" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MPRPrado&theme=tokyo-night&hide_border=true&bg_color=00000000&radius=12" 
+/>
+
 </div>
 
 ---
