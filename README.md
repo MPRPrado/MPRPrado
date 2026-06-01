@@ -125,8 +125,15 @@ Sou desenvolvedor com base sólida em **eletrônica e programação**, apaixonad
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MPRPrado&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPRPrado&layout=compact&theme=tokyonight"/>
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=MPRPrado&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+  />
+  
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPRPrado&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+  />
 </div>
 
 ---
